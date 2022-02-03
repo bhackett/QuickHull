@@ -1,6 +1,6 @@
 # QuickHull Convex Hull Divide and Conquor Algorithm
 # Author Anant Joshi (anant.joshi@live.com)
-import graphics as graphics
+from util import graphics as graphics
 from math import *
 import random
 import time
